@@ -23,16 +23,6 @@ Experience the course roadmap: [Zero to Full-Stack Hero](https://learnwebdev.ver
 - Frontend: Next.js
 - Hosting: Vercel
 
-## Why This Course?
-
-- Learn the basics for free before investing in expensive courses
-- Structured approach to web development learning
-- Aims to help learners earn their first tech salary
-- Provides a foundation for further specialized learning
-
-## Contributing
-
-We welcome contributions from everyone. Please read our [contributing guide](./CONTRIBUTING.md) to get started.
 
 
 
